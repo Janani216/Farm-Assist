@@ -6,11 +6,16 @@ A dynamic system that is deployed using an IoT kit. The retrieved values from th
 1. Increase the yield of the crop.
 2. Ensure the quality of the crop is sustained.
 3. Support farmers through various welfare organizations.
+
 4.Provides smart decisions using advanced techniques to know the right time to sow the seed.
+
 5.Rainfall prediction using machine learning algorithm on the historical rain data of the
 respective region.
+
 6.Forum and FAQ and  bilingual functionality  helps the farmers for connecting the worldwide farmers in a single platform and  farmers of all regions to use the application.
+
 7.Detailed information about crop insurance from various government as well as private banks using web scrapping in Java and Short term weather prediction the respective region using Openweather API.
+
 8.Sound functionality of the application allows farmers with vision problem to use the application with ease.
 
 
