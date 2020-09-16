@@ -4,15 +4,15 @@ A dynamic system that is deployed using an IoT kit. The retrieved values from th
 
 # Objective of Farm-Assist:
 
- 1. Increase the yield of the crop.
+1. Increase the yield of the crop.
 
- 2. Ensure the quality of the crop is sustained.
+2. Ensure the quality of the crop is sustained.
 
- 3. Support farmers through various welfare organizations.
+3. Support farmers through various welfare organizations.
 
- 4.Provides smart decisions using advanced techniques to know the right time to sow the seed.
+4.Provides smart decisions using advanced techniques to know the right time to sow the seed.
 
- 5.Rainfall prediction using machine learning algorithm on the historical rain data of the
+5.Rainfall prediction using machine learning algorithm on the historical rain data of the
 respective region.
 
 6.Forum and FAQ and  bilingual functionality  helps the farmers for connecting the worldwide farmers in a single platform and  farmers of all regions to use the application.
