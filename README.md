@@ -3,15 +3,16 @@
 A dynamic system that is deployed using an IoT kit. The retrieved values from the cloud are explicated by a sophisticated machine learning model and provide insights to the farmers through an android application in making decision whether to sow a particular seed or not based upon the geography and the current scenario of the physical land.
 
 # Objective of Farm-Assist:
+
 1. Increase the yield of the crop.
 
 2. Ensure the quality of the crop is sustained.
 
 3. Support farmers through various welfare organizations.
 
-4.Provides smart decisions using advanced techniques to know the right time to sow the seed.
+ 4.Provides smart decisions using advanced techniques to know the right time to sow the seed.
 
-5.Rainfall prediction using machine learning algorithm on the historical rain data of the
+ 5.Rainfall prediction using machine learning algorithm on the historical rain data of the
 respective region.
 
 6.Forum and FAQ and  bilingual functionality  helps the farmers for connecting the worldwide farmers in a single platform and  farmers of all regions to use the application.
